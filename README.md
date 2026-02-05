@@ -1,4 +1,4 @@
-# Thesis_code
+# Epidemic simualtor
 A Graphical Analysis of Epidemic Spread Using the SIR Model. 
 
 To make the code work you need to install the following libraries:
